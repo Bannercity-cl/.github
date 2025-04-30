@@ -1,6 +1,6 @@
 # BANNERCITY
 
-![Banner de Bannercity](https://via.placeholder.com/1200x300?text=BANNERCITY)
+![Banner de Bannercity](https://github.com/Bannercity-cl/.github/blob/main/bannercity.png)
 
 ## 🚀 + DE 8 AÑOS CONECTANDO MARCAS CON SU AUDIENCIA
 
