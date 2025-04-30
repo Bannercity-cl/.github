@@ -20,25 +20,25 @@ Sabemos que el posicionamiento de tu marca es lo más importante. Por eso, nuest
   <table border="0">
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/000000/web-design.png" width="100" height="100" />
+        <div style="font-size:60px">🎨</div>
         <h3>DESIGN</h3>
         <p>INNOVACIÓN Y TECNOLOGÍA</p>
         <p>En constante desarrollo de apps y plataformas que puedan ayudar a mejorar la experiencia digital a nuestros clientes.</p>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/000000/social-network.png" width="100" height="100" />
+        <div style="font-size:60px">📱</div>
         <h3>SOCIAL MEDIA</h3>
         <p>ESTRATEGIAS DIGITALES</p>
         <p>Proponemos estrategias de comunicación, apertura de nuevos canales, relaciones con los medios y ante todo visibilidad.</p>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/000000/code.png" width="100" height="100" />
+        <div style="font-size:60px">💻</div>
         <h3>DEV</h3>
         <p>DISEÑO Y DESARROLLO WEB</p>
         <p>Diseñamos y desarrollamos experiencias digitales optimizadas a los objetivos de tu marca.</p>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/000000/ad.png" width="100" height="100" />
+        <div style="font-size:60px">📊</div>
         <h3>ADS</h3>
         <p>PERFORMANCE MARKETING</p>
         <p>Posicionamiento SEO, SEM, Campañas de marketing mobile, banners, e-mail marketing, Adwords.</p>
@@ -69,17 +69,17 @@ Sabemos que el posicionamiento de tu marca es lo más importante. Por eso, nuest
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="50" height="50" />
+        <div style="font-size:50px">📆</div>
         <h3>+8</h3>
         <p>AÑOS DE EXPERIENCIA</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/design.png" width="50" height="50" />
+        <div style="font-size:50px">🖼️</div>
         <h3>+1M</h3>
         <p>BANNERS PRODUCIDOS AL AÑO</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/globe.png" width="50" height="50" />
+        <div style="font-size:50px">🌎</div>
         <h3>LATAM</h3>
         <p>PRESENCIA INTERNACIONAL</p>
       </td>
