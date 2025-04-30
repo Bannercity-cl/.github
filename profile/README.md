@@ -1,5 +1,3 @@
-# BANNERCITY
-
 ![Banner de Bannercity](https://github.com/Bannercity-cl/.github/blob/main/bannercity.png)
 
 ## 🚀 + DE 8 AÑOS CONECTANDO MARCAS CON SU AUDIENCIA
